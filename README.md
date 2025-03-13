@@ -1,7 +1,7 @@
 ﻿# Exoplanet-detection-Model
 
 ## Overview
-This project implements a deep learning model for exoplanet detection from flux time series data. The model leverages a Kalman filter for noise reduction and a Hybrid LSTM-Transformer architecture to capture both short-term dependencies and long-range relationships in the data.
+This project presents a deep learning approach for exoplanet detection based on flux time-series data. The proposed model integrates a Kalman filter for noise reduction and employs a Hybrid LSTM-Transformer architecture to effectively capture both short-term dependencies and long-range relationships within the data. The model was trained on a dataset consisting of 6000 labelled records, each comprising 4608 flux observations paired with their corresponding time data.
 
 ## Features
 
